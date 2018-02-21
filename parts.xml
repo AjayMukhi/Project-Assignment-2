@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<parts_detail>
+    <part id="blt1">
+      <name>Drive Belt Tensioner Replacement</name>
+      <category>Belts</category>
+      <model>volvo 350</model>
+	  <price>87.0</price>
+	  <supplier-id>GMatthew</supplier-id>
+	  <supplier-name>Gambardella, Matthew</supplier-name>
+	</part>  
+	  
+	<part id="brk1">
+      <name>ABS Speed Sensor Replacement</name>
+      <category>Brakes</category>
+      <model>volvo 350</model>
+	  <price>87.0</price>
+	  <supplier-id>GMatthew</supplier-id>
+	  <supplier-name>Gambardella, Matthew</supplier-name>
+	</part>  
+	  
+	<part id="brk2">
+      <name>Emergency/Parking Brake Shoe Replacement</name>
+      <category>Brakes</category>
+      <model>Audi A8 Quattro</model>
+	  <price>199.0</price>
+	  <supplier-id>ChMarcs</supplier-id>
+	  <supplier-name>Christina, Marc</supplier-name>
+	</part>  
+	  
+	<part id="eng1">
+      <name>Throttle Cable Repair</name>
+      <category>Engine</category>
+      <model>volvo 350</model>
+	  <price>87.0</price>
+	  <supplier-id>GMatthew</supplier-id>
+	  <supplier-name>Gambardella, Matthew</supplier-name>
+	</part>
+	  
+	<part id="eng2">
+      <name>Valve Cover Gasket Replacement</name>
+      <category>Engine</category>
+      <model>BMW 745Li</model>
+	  <price>471.0</price>
+	  <supplier-id>GMatthew</supplier-id>
+	  <supplier-name>Gambardella, Matthew</supplier-name>
+	</part>
+     	   
+	<part id="ex1">
+      <name>Catalytic Converter Replacement</name>
+      <category>Exhaust System</category>
+      <model>Toyota Yaris</model>
+	  <price>1502.0</price>
+	  <supplier-id>ChMarcs</supplier-id>
+	  <supplier-name>Christina, Marc</supplier-name>
+	</part>
+     	   
+    <part id="flu1">
+      <name>Oil Change</name>
+      <category>Fluids</category>
+      <model>Suzuki Vitara</model>
+	  <price>80.0</price>
+	  <supplier-id>ChMarcs</supplier-id>
+	  <supplier-name>Christina, Marc</supplier-name>
+	</part>
+     	     
+    <part id="fuel1">
+      <name>Fuel Injector Replacement</name>
+      <category>Fuel System</category>
+      <model>Suzuki Vitara</model>
+	  <price>80.0</price>
+	  <supplier-id>GMatthew</supplier-id>
+	  <supplier-name>Gambardella, Matthew</supplier-name>
+    </part>	  
+      
+	<part id="fuel2">
+      <name>Carburetor Repair</name>
+      <category>Fuel System</category>
+      <model>GMC K1500</model>
+	  <price>465.0</price>
+	  <supplier-id>GMatthew</supplier-id>
+	  <supplier-name>Gambardella, Matthew</supplier-name>
+	</part>
+
+
+    <part id="wip1">
+      <name>Windshield Wiper Linkage</name>
+      <category>Wiper System</category>
+      <model>Toyota Solara</model>
+	  <price>271.0</price>
+	  <supplier-id>ChMarcs</supplier-id>
+	  <supplier-name>Christina, Marc</supplier-name>
+	</part>
+	  
+	<part id="wip2">
+      <name>Windshield Wiper Refill Replacement</name>
+      <category>Wiper System</category>
+      <model>Toyota Solara</model>
+	  <price>80.0</price>
+	  <supplier-id>ChMarcs</supplier-id>
+	  <supplier-name>Christina, Marc</supplier-name>
+	</part>
+     	   	  
+     	   
+</parts_detail>

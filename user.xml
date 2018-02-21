@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<user_detail>
+    <user id="chetanSharma">
+      <password>chetansharma</password>
+      <email>chetan.sharma@gmail.com</email>
+      <phone-number>3126754489</phone-number>
+	  <usertype>consumer</usertype>
+	</user>
+     
+    <user id="ChMarcs">
+      <password>marc.christina</password>
+      <email>marc.christina@gmail.com</email>
+      <phone-number>3920738787</phone-number>
+	  <usertype>supplier</usertype>
+	</user>  
+	  
+	<user id="GMatthew">
+      <password>GambardellaMatthew</password>
+      <email>mgbardella@gmail.com</email>
+      <phone-number>7920731111</phone-number>
+	  <usertype>supplier</usertype>
+	</user>
+	  
+	<user id="AMukhi">
+      <password>MukhiAjay</password>
+      <email>ajay.mukhi@gmail.com</email>
+      <phone-number>3127920744</phone-number>
+	  <usertype>consumer</usertype>
+	</user>  
+	   
+</user_detail>

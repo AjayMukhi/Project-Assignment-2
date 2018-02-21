@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<order_detail>
+   <order id="AB10000">
+      <item-name>ABS Speed Sensor Replacement</item-name>      
+	  <item-id>brk1</item-id>
+	  <quantity>2</quantity>
+	  <price>176.0</price>	  
+      <customer-id>chetanSharma</customer-id>
+      <customer-name>Sharma, Chetan</customer-name>
+	  <phone>3126754489</phone>
+      <payment-type>Cash</payment-type>
+	  <payment-id>001</payment-id>
+	  <order-date>2018/01/16</order-date>
+      <address>501E,33rd Street</address>  
+      <city>San Francisco</city>  
+      <state>CA</state>  
+      <postalcode>94117</postalcode>  
+      <country>USA</country>  
+   </order> 
+   
+   <order id="AB10001">
+      <item-name>Catalytic Converter Replacement</item-name>      
+	  <item-id>ex1</item-id>
+	  <quantity>1</quantity>
+	  <price>1502.0</price>	  
+      <customer-id>chetanSharma</customer-id>
+      <customer-name>Sharma, Chetan</customer-name>
+	  <phone>3126754489</phone>
+      <payment-type>CARD</payment-type>
+	  <payment-id>002</payment-id>
+	  <order-date>2018/01/16</order-date>
+      <address>501E,33rd Street</address>  
+      <city>Chicago</city>  
+      <state>IL</state>  
+      <postalcode>60616</postalcode>  
+      <country>USA</country>  
+   </order> 	
+   
+</order_detail>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<customer_detail>
+   <customer id="chetanSharma">
+      <name>Sharma, Chetan</name>
+      <address1>501E,33rd Street</address1>
+	  <address2>apt-1602</address2>
+      <city>Chicago</city>
+      <zipcode>60616</zipcode>
+	  <state>IL</state>
+	  <country>United States</country>
+      <email>chetan.sharma@gmail.com</email>
+      <phone-number>3126754489</phone-number>	  
+	</customer>
+     
+   <customer id="AMukhi">
+      <name>Mukhi, Ajay</name>
+      <address1>6023 South Michigan Avenue</address1>
+	  <address2>apt-1454</address2>
+      <city>Chicago</city>
+      <zipcode>60662</zipcode>
+	  <state>IL</state>
+	  <country>United States</country>
+      <email>ajay.mukhi@gmail.com</email>
+      <phone-number>3127920744</phone-number>
+	</customer>  
+      
+   
+</customer_detail>

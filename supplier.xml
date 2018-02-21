@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<supplier_detail>
+    <supplier id="GMatthew">
+      <name>Gambardella, Matthew</name>
+      <address1>501E,32nd Street</address1>
+	  <address2>apt-1623</address2>
+      <city>Chicago</city>
+      <zipcode>60616</zipcode>
+	  <state>IL</state>
+      <email>mgbardella@gmail.com</email>
+      <phone-number>7920731111</phone-number>
+    </supplier>
+     
+    <supplier id="ChMarcs">
+      <name>Christina, Marc</name>
+      <address1>623 South Michigan Avenue</address1>	
+      <address2>building-1342</address2>  
+      <city>Chicago</city>
+      <zipcode>60612</zipcode>
+	  <state>IL</state>
+      <email>marc.christina@gmail.com</email>
+      <phone-number>3920738787</phone-number>  
+	</supplier>
+	  
+</supplier_detail>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<payment_detail>
+   <payment id="001">
+      <payment-type>CASH</payment-type>
+	  <card-number>NA</card-number>
+	  <card-type>NA</card-type>
+	  <amount>176.0</amount>
+	  <payment-date>2018/01/16</payment-date>
+      <billing-address>501E,33rd Street</billing-address>  
+      <city>San Francisco</city>  
+      <state>CA</state>  
+      <postalcode>94117</postalcode>  
+      <country>USA</country>  
+	</payment>
+	
+	<payment id="002">
+      <payment-type>CARD</payment-type>
+	  <card-number>5424-0122-4553-6433</card-number>
+	  <card-type>Master</card-type>
+	  <amount>1502.0</amount>
+	  <payment-date>2018/01/16</payment-date>
+      <billing-address>501E,33rd Street</billing-address>  
+      <city>Chicago</city>  
+      <state>IL</state>  
+      <postalcode>60616</postalcode>  
+      <country>USA</country>   
+	</payment>
+	
+	
+</payment_detail>
