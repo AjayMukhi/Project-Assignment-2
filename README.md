@@ -17,7 +17,7 @@ Parts Information
 ![alt text](https://github.com/AjayMukhi/Project-Assignment-2/blob/master/images/parts.PNG)
 
 Customer-Order Information
-![alt text](https://github.com/AjayMukhi/Project-Assignment-2/blob/master/images/customerOder.PNG)
+![alt text](https://github.com/AjayMukhi/Project-Assignment-2/blob/master/images/customerOrder.PNG)
 
 Payment Information
 ![alt text](https://github.com/AjayMukhi/Project-Assignment-2/blob/master/images/payment.PNG)
