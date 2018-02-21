@@ -1,5 +1,10 @@
 package parser;
 
+/** Program to parse the Customer xml  and load the records into the database
+ *  Programmed by Ajay and Karan 
+ *  for Project SOA -566
+ */
+
 import java.io.File;
 import java.util.Arrays;
 import java.util.List;
