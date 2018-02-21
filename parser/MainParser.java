@@ -1,5 +1,10 @@
 package parser;
 
+/** Program to call all parsers and from Main file which run all the xml and load the records into the database
+ *  Programmed by Ajay and Karan 
+ *  for Project SOA -566
+ */
+
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
